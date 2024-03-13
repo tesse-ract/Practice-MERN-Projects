@@ -1,2 +1,2 @@
-# practce-MERN-stack
+# Practice-MERN-Projects
 Building projects using MERN stack
